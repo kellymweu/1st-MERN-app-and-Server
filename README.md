@@ -1,4 +1,5 @@
-# This is the first MERN server i have created using REACT.js 
+# 1st MERN react server
+This is the first MERN server i have created using REACT.js 
 to run the file, kindly use the following steps:
 
 download the files
